@@ -1,5 +1,3 @@
 # Electron Screen Recorder
 
-Build a screen recorder with Electron from scratch. 
-
-Watch the [Electron 8 Tutorial](https://youtu.be/3yqDxhR2XxE) on YouTube. 
+![ASR-logos_transparent](https://user-images.githubusercontent.com/86103554/147764170-aca96e65-3a64-44ad-9600-7fd5ba1d155f.png)
